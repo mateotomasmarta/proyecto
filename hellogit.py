@@ -1,6 +1,3 @@
 
-print ("hello GIT!, este es mi primer archivo, y estoy muy emocionado de aprender GIT")
-
-print ("hello GIT!")
-
+print ("hello GIT!, esta es la version 1.0")
 
