@@ -1,1 +1,1 @@
-print("hola GIT, segundo archivo")
+print("hola GIT, segundo archivo, esta es la version 2.0")
